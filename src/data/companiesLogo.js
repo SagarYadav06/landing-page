@@ -12,7 +12,7 @@ export const companiesLogo = [
         logo: "/assets/companies-logo/instagram.svg",
     },
     {
-        name: "Microsoft",
+        name: "Microsofts",
         logo: "/assets/companies-logo/microsoft.svg",
     },
     {
